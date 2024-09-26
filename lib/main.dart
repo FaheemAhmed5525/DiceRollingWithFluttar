@@ -4,7 +4,7 @@ import 'package:rolling_die/gradient_container.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+     const MaterialApp(
       home: Scaffold(
         //backgroundColor: const Color.fromARGB(255, 189, 97, 212),
         body: GradientContainer(
