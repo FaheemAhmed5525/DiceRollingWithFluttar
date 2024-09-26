@@ -14,8 +14,8 @@ final Color color2;
         begin: Alignment.topRight,
         end: Alignment.bottomLeft,
       )),
-      child: const Center(
-        child: Text("Image"),
+      child: Center(
+        child: Image.asset("assets/image/Die-Image-1"),
       ),
     );
   }
